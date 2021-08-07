@@ -3,7 +3,7 @@
 Overtime, anxiety and depression cases have risen, especially among adolescents and young adults. 
 According to the World Health Organization, 20% of adolescents worldwide have a mental 
 health condition with depression being one of the most common. Alarmingly, it is reported approximately 264 million people are 
-diagnosed with depression worldwide, more commonly for women than men, and among the older population, about 7% have depression. 
+diagnosed with depression globally, more commonly for women than men, and among the older population, about 7% have depression. 
 Similarly, in the United States, rates of anxiety and depression have increased in the younger population. 
 In fact, based on a Pew Research Center survey in 2018, seven in ten students perceive anxiety and depression
 as a major problem among their peers. Altogether, anxiety and depression is a major problem worldwide,
